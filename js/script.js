@@ -1,9 +1,10 @@
 $(document).ready(function(){
 
-	$(".bear").animate{(
-		width: "100px"
-	), 2000};
-
+	// function(){
+	// 	$(".otter").animate({
+	// 		width: "50px"
+	// 	}), 2000};
+	// };
 
 
 });

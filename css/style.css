@@ -17,7 +17,7 @@
 	border-radius: 20px;
 }
 
-.title1, .title2 {
+.title1, .title2, .language, .languages {
 	font-size: 50px;
 	color: #fff;
 	font-family: "Avenir", sans-serif;
@@ -26,13 +26,45 @@
 }
 
 .title1 {
-	padding-top: 30px;
+	padding-top: 20px;
 }
 
 .title2 {
 	line-height: 30px;
 }
 
-.bear {
-	width: 5px;
+.otter {
+	width: 100px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	padding-left: 95px;
+	padding-top: 15px;
+}
+
+.language {
+	font-size: 20px;
+	padding-top: 5px;
+}
+
+.languages {
+	text-decoration: none;
+	font-size: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.language-box {
+	width: 200px;
+	height: 40px;
+	background-color: #ff45e4;
+	margin: 0 auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	border-radius: 10px;
 }
