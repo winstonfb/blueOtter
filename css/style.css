@@ -17,7 +17,7 @@
 	border-radius: 20px;
 }
 
-.title1, .title2, .language, .languages {
+.title1, .title2, .title3, .language, .languages {
 	font-size: 50px;
 	color: #fff;
 	font-family: "Avenir", sans-serif;
@@ -33,12 +33,27 @@
 	line-height: 30px;
 }
 
+.title3 {
+	font-size: 30px;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
 .otter {
 	width: 100px;
 	margin: 0 auto;
 	margin-bottom: 10px;
 	padding-left: 95px;
 	padding-top: 15px;
+}
+
+.otter2 {
+	width: 40px;
+	float: left;
+	margin-left: 20px;
+	padding-top: 10px;
+	padding-right: 20px;
 }
 
 .language {
@@ -67,4 +82,30 @@ li {
 	margin-bottom: 5px;
 	margin-left: 5px;
 	border-radius: 10px;
+	box-shadow: 3px 3px 3px #888888;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.icon-box {
+	width: 240px;
+	height: 280px;
+	border: 5px solid #ff45e4;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+
+.chatbox {
+	width: 240px;
+	height: 280px;
+	font-size: 14px;
+}
+
+#chat {
+	width: 230px;
+	height: 270px;
+	font-size: 14px;
 }

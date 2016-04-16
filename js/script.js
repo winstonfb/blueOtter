@@ -6,5 +6,9 @@ $(document).ready(function(){
 	// 	}), 2000};
 	// };
 
+	// $(".language-box").hover(function(){
+	// 	$(".language-box").css("box-shadow", "none");
+	// });
+
 
 });
