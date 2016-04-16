@@ -1,0 +1,38 @@
+.backdrop {
+	width: 320px;
+	height: 480px;
+	margin: 0 auto;
+	top: 0px;
+	left: 0px;
+	position: fixed;
+	background-color: #ADD8E6;
+}
+
+.window {
+	width: 290px;
+	height: 450px;
+	margin: 0 auto;
+	margin-top: 15px;
+	background-color: #e3e3e3;
+	border-radius: 20px;
+}
+
+.title1, .title2 {
+	font-size: 50px;
+	color: #fff;
+	font-family: "Avenir", sans-serif;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.title1 {
+	padding-top: 30px;
+}
+
+.title2 {
+	line-height: 30px;
+}
+
+.bear {
+	width: 5px;
+}
